@@ -1,0 +1,10 @@
+group 'com.holy'
+version '1.0-SNAPSHOT'
+
+buildscript {
+	repositories {
+		maven { url 'https://maven.aliyun.com/repository/public/' }
+		mavenLocal()
+		mavenCentral()
+	}
+}
