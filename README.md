@@ -1,3 +1,6 @@
+# 慕课网: Docker+Kubernetes(k8s)微服务容器化实践
+- https://coding.imooc.com/class/evaluation/198.html
+
 # 用户服务
 - 用户登录
 - 用户注册
@@ -13,6 +16,6 @@
 - 发送邮件
 - 发送短信
 
-# 用户的Edge Service
-# 课程的Edge Service
+# 用户的 edgeservice
+# 课程的 edgeservice
 # API GATEWAY
